@@ -15,7 +15,7 @@ Me gusta unir **diseño atractivo** con **código eficiente**, y actualmente des
 
 ## 🛠️ Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,python,git,github,arduino,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,python,git,github,arduino,figma,vscode,flutter" />
 </p>
 
 ---
